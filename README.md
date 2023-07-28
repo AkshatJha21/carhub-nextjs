@@ -1,8 +1,12 @@
 # CarHub - Browse Cars for Rent
 
-![CarHub](Screenshot 2023-07-28 at 4.41.23 PM.png)
+![CarHub](home.png)
 
-CarHub is a modern web application built with Next.js, TypeScript, Tailwind CSS, ReactJS, and Headless UI. It serves as a platform for users to browse a wide selection of cars available for rent.
+![CarHub](catalogue.png)
+
+![CarHub](dialog.png)
+
+CarHub is a modern web application built with Next.js, TypeScript, Tailwind CSS, ReactJS, Rapid API, and Headless UI. It serves as a platform for users to browse a wide selection of cars available for rent.
 
 Link to deployed website: https://carhub-nextjs-drab.vercel.app/
 
